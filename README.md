@@ -1,18 +1,5 @@
-`Number Display` is a sample plugin demonstrating the [Mirabox Space SDK](https://sdk.key123.vip).
+The warehouse has been integrated into [https://github.com/MiraboxSpace/StreamDock-Plugins/tree/main/Examples](https://github.com/MiraboxSpace/StreamDock-Plugins/tree/main/Examples)
 
-# Description
+Please move in the future [https://github.com/MiraboxSpace/StreamDock-Plugins/tree/main/Examples](https://github.com/MiraboxSpace/StreamDock-Plugins/tree/main/Examples)
 
-The number display plugin is used to show the selected number.
-
-# Features
-
-* Written in C++
-
-* Cross-platform (macOS, Windows)
-
-* Persistent settings (entered number)
-
-<figure style="text-align: center;">
-  <img src="/show.png" alt="Stream Dock" width="100%" />
-  <figcaption>Number Display Example</figcaption>
-</figure>
+After a while, this repository will be deleted
